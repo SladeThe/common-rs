@@ -1,4 +1,4 @@
 #![allow(dead_code)]
 
-mod io;
-mod strings;
+pub mod io;
+pub mod strings;
